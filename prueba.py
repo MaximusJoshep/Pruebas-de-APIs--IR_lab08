@@ -1,3 +1,4 @@
+#Autores:Jose Mejia Huayhua & Lizette Quispe Flores
 from flask import Flask
 from flask_restful import Resource, Api, reqparse, url_for
 import pandas as pd
